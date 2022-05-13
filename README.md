@@ -11,21 +11,20 @@
 ## 安装
 
 ```bash
-$ yarn global add musicn
-# or
-$ npm install musicn -g
+$ git clone https://github.com/ddannyc/musicn.git
+$ npm install -g
 ```
 
 ## 使用
 
 ```bash
-$ musicn 稻香
+$ musicn 逆光
 ```
 
 For short:
 
 ```bash
-$ msc 稻香
+$ msc 逆光
 ```
 
 ## 资源
